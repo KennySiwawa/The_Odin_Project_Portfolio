@@ -8,41 +8,34 @@ Each folder in this repository corresponds to a module or project, covering ever
 
 ## 📚 Curriculum Structure
 
+```
 the-odin-project-journey/
-├── README.md                     # Overview of the entire journey
-│
-├── foundations/                 # HTML, CSS, and basic JavaScript projects
-│   ├── 01-recipes-website/         # Basic HTML website
-│   ├── 02-google-homepage/         # Google homepage clone
-│   ├── 03-landing-page/            # Flexbox landing page
-│   ├── 04-rock-paper-scissors/     # JavaScript logic game
-│   ├── 05-etch-a-sketch/           # Drawing app
-│   └── 06-calculator/              # Functional calculator
-│
+├── README.md                   # Overview of the entire journey
+├── foundations/                # HTML, CSS, and basic JavaScript projects
+│   ├── 01-recipes-website/     # Basic HTML website
+│   ├── 02-google-homepage/     # Google homepage clone
+│   ├── 03-landing-page/        # Flexbox landing page
+│   ├── 04-rock-paper-scissors/ # JavaScript logic game
+│   ├── 05-etch-a-sketch/       # Drawing app
+│   └── 06-calculator/          # Functional calculator
 ├── intermediate-html-and-css/  # Advanced form and layout techniques
-│   └── 07-signup-form/             # Form styling and validation
-│
+│   └── 07-signup-form/         # Form styling and validation
 ├── javascript/                 # DOM manipulation, OOP, and async JS
-│   ├── 08-library-app/             # Book management with objects
-│   ├── 09-todo-list/               # Task planner with localStorage
-│   ├── 10-weather-app/             # API integration and fetch
-│   └── 11-tic-tac-toe/             # Game with modular JS
-│
-├── git/                       # Git collaboration and branching
+│   ├── 08-library-app/         # Book management with objects
+│   ├── 09-todo-list/           # Task planner with localStorage
+│   ├── 10-weather-app/         # API integration and fetch
+│   └── 11-tic-tac-toe/         # Game with modular JS
+├── git/                        # Git collaboration and branching
 │   └── 12-git-collaboration-practice/
-│
-├── node/                      # Backend fundamentals with Node.js
+├── node/                       # Backend fundamentals with Node.js
 │   └── 13-rest-api/
-│
-├── express/                   # Server routing and middleware
+├── express/                    # Server routing and middleware
 │   └── 14-blog-api/
-│
-├── mongo-db/                  # MongoDB integration and user auth
+├── mongo-db/                   # MongoDB integration and user auth
 │   └── 15-members-only/
-│
-└── fullstack/                 # Final full stack application
+└── fullstack/                  # Final full stack application
     └── 16-final-capstone/
-
+```
 
 
 ## ✅ Project Tracker
