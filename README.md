@@ -6,82 +6,74 @@ Each folder in this repository corresponds to a module or project, covering ever
 
 ---
 
-## 📚 Curriculum Overview
+## 📚 Curriculum Structure
 
-The repository structure reflects the curriculum progression:
+the-odin-project-journey/
+├── README.md                     # Overview of the entire journey
+│
+├── foundations/                 # HTML, CSS, and basic JavaScript projects
+│   ├── 01-recipes-website/         # Basic HTML website
+│   ├── 02-google-homepage/         # Google homepage clone
+│   ├── 03-landing-page/            # Flexbox landing page
+│   ├── 04-rock-paper-scissors/     # JavaScript logic game
+│   ├── 05-etch-a-sketch/           # Drawing app
+│   └── 06-calculator/              # Functional calculator
+│
+├── intermediate-html-and-css/  # Advanced form and layout techniques
+│   └── 07-signup-form/             # Form styling and validation
+│
+├── javascript/                 # DOM manipulation, OOP, and async JS
+│   ├── 08-library-app/             # Book management with objects
+│   ├── 09-todo-list/               # Task planner with localStorage
+│   ├── 10-weather-app/             # API integration and fetch
+│   └── 11-tic-tac-toe/             # Game with modular JS
+│
+├── git/                       # Git collaboration and branching
+│   └── 12-git-collaboration-practice/
+│
+├── node/                      # Backend fundamentals with Node.js
+│   └── 13-rest-api/
+│
+├── express/                   # Server routing and middleware
+│   └── 14-blog-api/
+│
+├── mongo-db/                  # MongoDB integration and user auth
+│   └── 15-members-only/
+│
+└── fullstack/                 # Final full stack application
+    └── 16-final-capstone/
 
-1. **Foundations**  
-   - *HTML, CSS, and JavaScript basics*
-   - Projects:
-     1. Recipes Website (Basic HTML recipe site)
-     2. Google Homepage (Google homepage clone)
-     3. Landing Page (Responsive landing page using Flexbox)
-     4. Rock Paper Scissors (JavaScript game logic)
-     5. Etch-a-Sketch (Grid-based drawing app)
-     6. Calculator (Functional calculator app)
 
-2. **Intermediate HTML and CSS**  
-   - *Forms, positioning, and layout*  
-   - Projects:
-     - Sign-Up Form (Styled, validated sign-up form)
-
-3. **JavaScript**  
-   - *DOM manipulation, objects, async JS, and modules*  
-   - Projects:
-     1. Library App (Book tracking with OOP)
-     2. Todo List (To-do app with localStorage)
-     3. Weather App (API-based weather app)
-     4. Tic Tac Toe (Two-player game with modular JS)
-
-4. **Git**  
-   - *Collaboration and Git basics*  
-   - Projects:
-     - Git Collaboration Practice
-
-5. **Node.js**  
-   - *Backend development with Node.js*  
-   - Projects:
-     - REST API Project
-
-6. **Express.js**  
-   - *Server and routing with Express*  
-   - Projects:
-     - Blog API
-
-7. **MongoDB**  
-   - *MongoDB, Mongoose, and user authentication*  
-   - Projects:
-     - Members Only App
-
-8. **Full Stack**  
-   - *Final capstone project*  
-   - Projects:
-     - Final Full Stack Project
-
----
 
 ## ✅ Project Tracker
 
-This table tracks the progress of each project throughout the curriculum:
+Below is the progress tracker for all projects in the curriculum:
 
-| 📁 Folder                                | 🧩 Project                   | 📅 Status      | 🔗 Live/Demo   |
-|------------------------------------------|-----------------------------|-----------------|----------------|
-| `foundations/recipes-website`            | Recipes Website             | ✅ Complete     | —              |
-| `foundations/google-homepage`            | Google Homepage Clone       | ✅ Complete     | —              |
-| `foundations/landing-page`               | Flexbox Landing Page        | ⏳ In Progress  | —              |
-| `foundations/rock-paper-scissors`        | Rock Paper Scissors Game    | ⏳ In Progress  | —              |
-| `foundations/etch-a-sketch`              | Etch-a-Sketch Drawing App   | ⏳ Not Started  | —              |
-| `foundations/calculator`                 | Calculator App              | ⏳ Not Started  | —              |
-| `intermediate-html-and-css/signup-form`  | Sign-Up Form                | ⏳ Not Started  | —              |
-| `javascript/library-app`                 | Library App                 | ⏳ Not Started  | —              |
-| `javascript/todo-list`                   | Todo List                   | ⏳ Not Started  | —              |
-| `javascript/weather-app`                 | Weather App (API)           | ⏳ Not Started  | —              |
-| `javascript/tic-tac-toe`                 | Tic Tac Toe                 | ⏳ Not Started  | —              |
-| `git/git-collaboration-practice`         | Git Collaboration Practice  | ⏳ Not Started  | —              |
-| `node/rest-api`                          | REST API Project            | ⏳ Not Started  | —              |
-| `express/blog-api`                       | Blog API                    | ⏳ Not Started  | —              |
-| `mongo-db/members-only`                  | Members Only App            | ⏳ Not Started  | —              |
-| `fullstack/final-capstone`               | Final Full Stack Project    | ⏳ Not Started  | —              |
+| **Folder**                              | **Project**                 | **Status**         | **Live/Demo**                              |
+|-----------------------------------------|-----------------------------|--------------------|--------------------------------------------|
+| `foundations/recipes-website`           | Recipes Website             | ✅ **Complete**    | https://kennysiwawa.github.io/odin-recipes/|
+| `foundations/google-homepage`           | Google Homepage Clone       | ✅ **Complete**    | —                                          |
+| `foundations/landing-page`              | Flexbox Landing Page        | ⏳ **In Progress** | —                                          |
+| `foundations/rock-paper-scissors`       | Rock Paper Scissors Game    | ⏳ **In Progress** | —                                          |
+| `foundations/etch-a-sketch`             | Etch-a-Sketch Drawing App   | 🔄 **Not Started** | —                                          |
+| `foundations/calculator`                | Calculator App              | 🔄 **Not Started** | —                                          |
+| `intermediate-html-and-css/signup-form` | Sign-Up Form                | 🔄 **Not Started** | —                                          |
+| `javascript/library-app`                | Library App                 | 🔄 **Not Started** | —                                          |
+| `javascript/todo-list`                  | Todo List                   | 🔄 **Not Started** | —                                          |
+| `javascript/weather-app`                | Weather App (API)           | 🔄 **Not Started** | —                                          |
+| `javascript/tic-tac-toe`                | Tic Tac Toe                 | 🔄 **Not Started** | —                                          |
+| `git/git-collaboration-practice`        | Git Collaboration Practice  | 🔄 **Not Started** | —                                          |
+| `node/rest-api`                         | REST API Project            | 🔄 **Not Started** | —                                          |
+| `express/blog-api`                      | Blog API                    | 🔄 **Not Started** | —                                          |
+| `mongo-db/members-only`                 | Members Only App            | 🔄 **Not Started** | —                                          |
+| `fullstack/final-capstone`              | Final Full Stack Project    | 🔄 **Not Started** | —                                          |
+
+---
+
+### Key:
+- ✅ **Complete**: Project has been finished and reviewed.
+- ⏳ **In Progress**: Work is ongoing.
+- 🔄 **Not Started**: Project has not been started yet.
 
 ---
 
